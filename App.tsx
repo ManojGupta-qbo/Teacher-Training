@@ -1279,7 +1279,7 @@ export default function App() {
           <div className="flex items-center gap-3 select-none" id="labhya-brand-top">
             {/* High-quality calligraphic representation of the Labhya (लभ्य) logo */}
             <img
-              src="/src/assets/images/labhya_final_logo_1779937435047.png"
+              src="labhya_final_logo_1779937435047.png"
               alt="Labhya Logo"
               className="h-8 md:h-10 w-auto shrink-0 object-contain mix-blend-multiply"
               referrerPolicy="no-referrer"
