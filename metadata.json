@@ -1,0 +1,6 @@
+{
+  "name": "ShiksakSathi (शिक्षक साथी)",
+  "description": "ShiksakSathi (शिक्षक साथी) - AI-powered companion for teacher socio-emotional well-being, stress relief, and classroom support, co-designed for Indian educators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
