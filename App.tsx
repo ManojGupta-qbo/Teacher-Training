@@ -35,7 +35,7 @@ import {
 import { WELLBEING_TOPICS, TRANSLATIONS } from "./knowledgeBase";
 import { TeacherProfile, ChatMessage, AdminRecord } from "./types";
 import { generateWellBeingPDF } from "./pdfGenerator";
-import { AdminAnalytics } from "./components/AdminAnalytics";
+import { AdminAnalytics } from "./AdminAnalytics";
 
 // Random pool of regional Indian female names
 const FEMALE_MENTORS = [
