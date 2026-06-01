@@ -32,7 +32,7 @@ import {
   Search,
   MessageSquare
 } from "lucide-react";
-import { WELLBEING_TOPICS, TRANSLATIONS } from "./data/knowledgeBase";
+import { WELLBEING_TOPICS, TRANSLATIONS } from "./knowledgeBase";
 import { TeacherProfile, ChatMessage, AdminRecord } from "./types";
 import { generateWellBeingPDF } from "./utils/pdfGenerator";
 import { AdminAnalytics } from "./components/AdminAnalytics";
