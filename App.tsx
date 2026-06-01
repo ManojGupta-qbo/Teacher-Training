@@ -34,7 +34,7 @@ import {
 } from "lucide-react";
 import { WELLBEING_TOPICS, TRANSLATIONS } from "./knowledgeBase";
 import { TeacherProfile, ChatMessage, AdminRecord } from "./types";
-import { generateWellBeingPDF } from "./utils/pdfGenerator";
+import { generateWellBeingPDF } from "./pdfGenerator";
 import { AdminAnalytics } from "./components/AdminAnalytics";
 
 // Random pool of regional Indian female names
